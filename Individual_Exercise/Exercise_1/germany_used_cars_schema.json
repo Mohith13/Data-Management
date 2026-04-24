@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Germany Used Cars Dataset 2023",
+  "description": "A dataset containing over 200,000 data points about used car offers in Germany, scraped from AutoScout24. It includes features like brand, model, price, mileage, and registration date.",
+  "url": "https://www.kaggle.com/datasets/wspirat/germany-used-cars-dataset-2023",
+  "creator": {
+    "@type": "Person",
+    "name": "wspirat"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kaggle"
+  },
+  "datePublished": "2023",
+  "keywords": [
+    "Cars",
+    "Used Cars",
+    "Automotive",
+    "Germany",
+    "Data Analytics"
+  ]
+}
